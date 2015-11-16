@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Thank you. We are sending you the form.</Say>
+    <Sms>
+    voiceform://open?id=3453234
+    </Sms>
+    <Say>Goodbye</Say>
+    <Hangup/>
+</Response>
