@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Thank you for subscribing, you should receive a confirmation message in a moment.</Say>
+    <Sms>
+    Thank you for subscribing.  This message confirms your subscription to http://sms-phone.appspot.com.  
+ 
+    This is an example SMS response from twilio.com.
+    </Sms>
+    <Say>Goodbye</Say>
+    <Hangup/>
+</Response>
