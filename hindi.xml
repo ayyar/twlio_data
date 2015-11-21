@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Ham aapakoo prapatr bheej rahee hain.
+Neeli rekha par ungalee rakhein aur nirdeeshoon ka paalan kareen.
+</Say>
+    <Sms>
+		http://nbuforms.com/openform
+    </Sms>
+    <Hangup/>
+</Response>
