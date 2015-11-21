@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Thank you. We are sending you the form. Tap the link and then follow instructions.</Say>
+    <!-- http://i.imgur.com/xwELnsq.png -->
+    <!-- http://i.imgur.com/l5G1Ctc.png -->
+    <Sms>
+		http://nbuforms.com/openform
+    </Sms>
+    <Message>
+        <Body>http://nbuforms.com/openform</Body>
+        <Media>http://i.imgur.com/l5G1Ctc.png</Media>
+    </Message>
+    <Say>Goodbye</Say>
+    <Hangup/>
+</Response>
